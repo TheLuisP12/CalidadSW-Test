@@ -1,0 +1,6 @@
+﻿C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\Data\ExchangeMigration.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\EcbExchangeRateProvider.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\EcbExchangeRateSettings.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\logo.jpg
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\plugin.json
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\Notes.txt

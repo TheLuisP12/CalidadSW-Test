@@ -1,0 +1,11 @@
+﻿C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Controllers\DiscountRulesCustomerRolesController.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\CustomerRoleDiscountRequirementRule.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\DiscountRequirementDefaults.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Infrastructure\Cache\DiscountRequirementEventConsumer.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Models\RequirementModel.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Validators\RequirementModelValidator.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\logo.jpg
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\plugin.json
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Views\Configure.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\Notes.txt

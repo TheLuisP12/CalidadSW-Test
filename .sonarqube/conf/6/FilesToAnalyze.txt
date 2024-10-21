@@ -1,0 +1,7 @@
+﻿C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\Controllers\NopMobileAppController.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\NopMobilePlugin.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\logo.png
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\plugin.json
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\Views\Configure.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\Views\_ViewImports.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.NopMobileApp\Notes.txt

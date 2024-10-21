@@ -1,0 +1,7 @@
+﻿C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\Controllers\WebApiFrontendController.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\WebApiFrontendPlugin.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\logo.png
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\plugin.json
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\Views\Configure.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\Views\_ViewImports.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Misc.WebApi.Frontend\Notes.txt

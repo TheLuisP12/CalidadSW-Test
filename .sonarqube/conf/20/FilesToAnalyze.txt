@@ -1,0 +1,14 @@
+﻿C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Components\PaymentManualViewComponent.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Controllers\PaymentManualController.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\ManualPaymentProcessor.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\ManualPaymentSettings.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Models\ConfigurationModel.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Models\PaymentInfoModel.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\TransactMode.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Validators\PaymentInfoValidator.cs
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\logo.jpg
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\plugin.json
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Views\Configure.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Views\PaymentInfo.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Views\_ViewImports.cshtml
+C:\Users\Microsoft\Desktop\nopCommerce_4.70.5_Source\src\Plugins\Nop.Plugin.Payments.Manual\Notes.txt
